@@ -6,7 +6,7 @@ distributed under the license in LICENSE. There is no warranty.
 
 The frontend in frontend/ is a trimmed Cloudflare-native edition based on the
 original Sub-Store frontend experience and remains accompanied by
-frontend/LICENSE.
+frontend/LICENSE.  
 
 Upstream projects:
 
